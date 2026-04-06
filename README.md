@@ -1,0 +1,2 @@
+# 1.-Hospital-Management-System-2.-Software-House-Visit-ABC-Software-House-International-
+A software engineering project that manages patient records, appointments, billing, and hospital operations in an organized system. It improves efficiency and ensures accurate data handling in healthcare environments. project management in a professional environment. It provides practical industry exposure and insights into processes.
